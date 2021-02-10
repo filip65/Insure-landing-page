@@ -34,6 +34,7 @@ body{
     margin-bottom: 20px;
     padding: 13px;
     border: 2px solid transparent;
+    transition: border-color 0.2s;
 }
 
 .nav-container ul li:hover{
